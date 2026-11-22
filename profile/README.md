@@ -22,13 +22,14 @@ https://raw.githubusercontent.com/Wraith-Core/txAdminRecipe/main/wraithcore.yaml
 
 ---
 
-## Free Open-Source Resources (18)
+## Free Open-Source Resources (19)
 
 ### Core Foundation
 - [`w_lib`](https://github.com/Wraith-Core/w_lib) — Unified UI, callbacks, prompts, placer, glow, blips, DB exports, framework/inventory bridges & localization (`en` / `ar`)
 - [`w_core`](https://github.com/Wraith-Core/w_core) — Framework core: characters, money, jobs, gangs, metadata, ranks/ACE, bans & commands *(GPL-3.0)*
 - [`w_inventory`](https://github.com/Wraith-Core/w_inventory) — Slot + metadata inventory, weapons, stashes, crafting & built-in shops
 - [`w_adminmenu`](https://github.com/Wraith-Core/w_adminmenu) — Open-source RedM Admin Menu built with `w_lib` interfaces (`/admin` / `F10`) *(MIT)*
+- [`w_fasttravel`](https://github.com/Wraith-Core/w_fasttravel) — Fast travel & stagecoach network across 10 RDR2 towns built with `w_lib` *(MIT)*
 - [`w_chat`](https://github.com/Wraith-Core/w_chat) — Styled roleplay chat & command suggestions
 - [`w_loading`](https://github.com/Wraith-Core/w_loading) — Configurable Red Dead loading screen & transition curtain
 
