@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/Wraith-Core/txAdminRecipe/main/wraithcore.yaml
 
 ---
 
-## Free Open-Source Resources (19)
+## Free Open-Source Resources (23)
 
 ### Core Foundation
 - [`w_lib`](https://github.com/Wraith-Core/w_lib) — Unified UI, callbacks, prompts, placer, glow, blips, DB exports, framework/inventory bridges & localization (`en` / `ar`)
@@ -50,6 +50,10 @@ https://raw.githubusercontent.com/Wraith-Core/txAdminRecipe/main/wraithcore.yaml
 - [`w_management`](https://github.com/Wraith-Core/w_management) — Boss & gang society treasury management *(GPL-3.0)*
 - [`w_policejob`](https://github.com/Wraith-Core/w_policejob) — Sheriff & law enforcement job with built-in inventory armory *(GPL-3.0)*
 - [`w_medic`](https://github.com/Wraith-Core/w_medic) — Doctor & hospital job with wounding, beds, revives & built-in inventory pharmacy *(GPL-3.0)*
+- [`w_hunting`](https://github.com/Wraith-Core/w_hunting) — 10 RDR2 butcher stalls, shoulder/horse carcass sales, wild skinning loot & daily demand bonus *(GPL-3.0)*
+- [`w_fishing`](https://github.com/Wraith-Core/w_fishing) — Native RDR2 fishing minigame, 9 baits/lures, 27 fish species & 8 fishmonger stalls *(GPL-3.0)*
+- [`w_mining`](https://github.com/Wraith-Core/w_mining) — 3 RDR2 mines + wild rocks, ore crushing, gold washing & 4 smelting furnaces *(GPL-3.0)*
+- [`w_lumberjack`](https://github.com/Wraith-Core/w_lumberjack) — Forest woodcutting (130+ tree models), timber milling & 4 sawmills *(GPL-3.0)*
 
 ---
 
